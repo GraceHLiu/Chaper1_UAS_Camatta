@@ -109,5 +109,7 @@ The three codes under model optimization uses stochastic gradient descent method
 
 - **libraries**: Deriv, reshape2, Metrics, and (ggplot)
 
+## Contact
 
+Reach out to me at my website at https://gracehliu.weebly.com/contact.html
 
